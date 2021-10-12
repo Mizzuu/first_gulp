@@ -1,0 +1,15 @@
+{
+  "name": "module-design-demo",
+  "version": "1.0.0",
+  "description": "class follow-along demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mizuho Tohma",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
